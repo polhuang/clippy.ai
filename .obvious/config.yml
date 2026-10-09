@@ -1,0 +1,10 @@
+# Repo policy for the onboarding/automation agent.
+# Generated from GitHub repo settings for polhuang/clippy.ai.
+version: 1
+
+branches:
+  default: main
+
+merge:
+  # GitHub allows merge, squash, and rebase for this repo; squash is the default.
+  method: squash
